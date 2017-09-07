@@ -1,6 +1,6 @@
 # waifu-randomizer
 
-![](https://imgur.com/5di5jMw.png)
+![](https://imgur.com/BJBlroa.png)
 
 This is just basically a page downloader / info organizer the works with data from MyWaifuList.
 
